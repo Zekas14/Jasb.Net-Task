@@ -1,0 +1,17 @@
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\bin\Debug\net8.0\Infrastrucutre.deps.json
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\bin\Debug\net8.0\Infrastrucutre.runtimeconfig.json
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\bin\Debug\net8.0\Infrastrucutre.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\bin\Debug\net8.0\Infrastrucutre.pdb
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\bin\Debug\net8.0\Core.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\bin\Debug\net8.0\Core.pdb
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.csproj.AssemblyReference.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.AssemblyInfoInputs.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.AssemblyInfo.cs
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.csproj.CoreCompileInputs.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.csproj.CopyComplete
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\refint\Infrastrucutre.dll
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.pdb
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\Infrastrucutre.genruntimeconfig.cache
+D:\Ahmed\ASP.NET\Web Api\Projects\JsbTask\Infrastrucutre\obj\Debug\net8.0\ref\Infrastrucutre.dll

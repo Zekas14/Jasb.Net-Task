@@ -1,0 +1,69 @@
+[
+  {
+    "Name": "Classic Literature",
+    "Description": "Famous stories that are well-known and loved.",
+    "Books": [
+      {
+        "Name": "The Great Gatsby",
+        "Description": "A story about love and wealth in the 1920s.",
+        "Price": 15.99,
+        "Author": "F. Scott Fitzgerald",
+        "Stock": 120
+      },
+      {
+        "Name": "Pride and Prejudice",
+        "Description": "A love story that deals with class and society.",
+        "Price": 10.99,
+        "Author": "Jane Austen",
+        "Stock": 90
+      }
+    ]
+  },
+  {
+    "Name": "Computer Science",
+    "Description": "Books about programming and technology.",
+    "Books": [
+      {
+        "Name": "ASP.NET Core Web API",
+        "Description": "Learn how to build web APIs with ASP.NET Core.",
+        "Price": 29.99,
+        "Author": "John Smith",
+        "Stock": 50
+      },
+      {
+        "Name": "Flutter Basics",
+        "Description": "An easy guide to building mobile apps with Flutter.",
+        "Price": 34.99,
+        "Author": "Jane Doe",
+        "Stock": 45
+      },
+      {
+        "Name": "Java Microservices",
+        "Description": "Learn about building microservices with Java and Spring Boot.",
+        "Price": 39.99,
+        "Author": "Sam Lee",
+        "Stock": 30
+      },
+      {
+        "Name": "Python Programming",
+        "Description": "A simple introduction to Python programming.",
+        "Price": 24.99,
+        "Author": "Emily Brown",
+        "Stock": 70
+      }
+    ]
+  },
+  {
+    "Name": "Dystopian Fiction",
+    "Description": "Books about dark and scary future worlds.",
+    "Books": [
+      {
+        "Name": "1984",
+        "Description": "A story about a future where the government controls everything.",
+        "Price": 18.75,
+        "Author": "George Orwell",
+        "Stock": 150
+      }
+    ]
+  }
+]
